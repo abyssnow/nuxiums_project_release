@@ -4,6 +4,8 @@ This extension creates a simple hello-world project.
 
 Build the project by [CMake](https://cmake.org/) and run on PAX Nuxiums terminal.
 
+Support Linux and macOS desktop platform.
+
 ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
